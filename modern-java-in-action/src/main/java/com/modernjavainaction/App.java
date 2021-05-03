@@ -1,4 +1,4 @@
-package com.srigauri.mjia;
+package com.modernjavainaction;
 
 /**
  * Hello world!
